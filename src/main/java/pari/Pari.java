@@ -1,4 +1,4 @@
-package Pari.java;
+package pari;
 
 public class Pari {
     int numero;
